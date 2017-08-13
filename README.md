@@ -1,5 +1,5 @@
 # react-native-starter-basic
-this is boilerplate react-native (android) without state management.
+is boilerplate react-native (android) without state management, config API in **App/Config/Api.js**
 
 <table>
   <tr>
