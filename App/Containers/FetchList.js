@@ -24,7 +24,7 @@ class FetchList extends React.Component {
       switch (this.props.paramKey) {
         case 'rsumum':
           title = 'Rumah Sakit Umum';
-          bgHeader = '#02C39A';
+          bgHeader = '#028090';
           this.api.fetchUmum().then((result) => {
             this.setState({
               fetchData: result.data,

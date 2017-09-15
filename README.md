@@ -10,6 +10,10 @@ is boilerplate react-native (android) without state management, config API in **
   </tr>
 </table>
 
+# Example Case Project
+- How to use Listview on RN
+- How to use FB SDK
+
 # Include
 - react-native init project (react v.16.0.0-alpha.12 & react-native 0.47.1)
 - <a href="https://github.com/GeekyAnts/NativeBase">NativeBase</a>
